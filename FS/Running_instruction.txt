@@ -1,0 +1,2 @@
+docker build -t fibonacci_server .
+docker run -p 9090:9090 fibonacci_server
